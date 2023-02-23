@@ -2,21 +2,17 @@ Dados do aluno
 
 -Primeiro Nome:
     Rodrigo R. Tozatti
-
 -Profissão:
     QA Analista de testes
-
 -Cidade:
     Sertanópolis - PR
-
 -O que faz nas horas vaga:
-    Família, churrasco, pesca esportiva e manutanção na casa.
-
+    Família, churrasco, pesca esportiva e manutanção da casa.
 -Feedback sobre o curso Qualidade de Software:
     O curso de Qualidade de Softwares é ótimo.
-
 -Feedback sobre a plataforma de estudo da EBAC:
     Boa plataforma, fácil navegação e muito intuitiva.
+
 
 Obrigado!!!
 
